@@ -34,10 +34,13 @@ This project was created to learn Cloud Infrastructure Monitoring and Site Relia
 ## Screenshots
 
 ### Azure Portal
-![Azure Portal](screenshots/azure-dashboard.png)
+![Azure Portal](azure-dashboard.jpg)
 
 ### Azure VM
-![Azure VM](screenshots/azure-vm.png)
+![Azure VM](azure-VM.jpg)
+![Azure VM](VM.jpg)
+![Azure VM](VM-Machine.jpg)
 
 ### IIS Server
-![IIS](screenshots/iis-server.png)
+![IIS](IIS.jpg)
+![IIS](IIS-WEB.jpg)
