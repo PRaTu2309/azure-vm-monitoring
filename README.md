@@ -30,3 +30,14 @@ This project demonstrates Azure VM monitoring and basic SRE infrastructure opera
 
 ## Purpose
 This project was created to learn Cloud Infrastructure Monitoring and Site Reliability Engineering (SRE) operations.
+
+## Screenshots
+
+### Azure Portal
+![Azure Portal](screenshots/azure-dashboard.png)
+
+### Azure VM
+![Azure VM](screenshots/azure-vm.png)
+
+### IIS Server
+![IIS](screenshots/iis-server.png)
